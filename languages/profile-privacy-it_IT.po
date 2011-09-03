@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: bp-profile-privacy-core.php:32
+#: includes/bp-profile-privacy-admin.php:15
+#@ profile-privacy
+msgid "Profile Privacy Setup"
+msgstr "Configurazione privacy del profile"
+
+#: bp-profile-privacy-core.php:74
+#, php-format
+#@ profile-privacy
+msgid "Who can see \"%s\"?"
+msgstr "Chi può vedere \"%s\"?"
+
+#: bp-profile-privacy-core.php:79
+#: includes/bp-profile-privacy-admin.php:41
+#@ profile-privacy
+msgid "Everyone"
+msgstr "Tutti"
+
+#: bp-profile-privacy-core.php:79
+#@ profile-privacy
+msgid "My Friends"
+msgstr "i miei amici"
+
+#: bp-profile-privacy-core.php:79
+#@ profile-privacy
+msgid "Only Me"
+msgstr "Io solamente"
+
+#: includes/bp-profile-privacy-admin.php:31
+#@ profile-privacy
+msgid "Who Can See?"
+msgstr "Chi può vedere?"
+
+#: includes/bp-profile-privacy-admin.php:32
+#@ profile-privacy
+msgid "Field Name"
+msgstr "Nome del campo"
+
+#: includes/bp-profile-privacy-admin.php:41
+#@ profile-privacy
+msgid "Friends"
+msgstr "Amici"
+
+#: includes/bp-profile-privacy-admin.php:41
+#@ profile-privacy
+msgid "User"
+msgstr "Utente"
+
+#: includes/bp-profile-privacy-admin.php:41
+#@ profile-privacy
+msgid "Let User Decide"
+msgstr "Lascia decidere all'utente"
+
+#: includes/bp-profile-privacy-admin.php:53
+#@ profile-privacy
+msgid "There are no fields."
+msgstr "Non ci sono campi."
+
+#: includes/bp-profile-privacy-admin.php:63
+#@ profile-privacy
+msgid "There are groups."
+msgstr "Ci sono dei gruppi."
+
+#: includes/bp-profile-privacy-admin.php:68
+#@ profile-privacy
+msgid "Save Changes"
+msgstr "Salva Modifiche"
+
