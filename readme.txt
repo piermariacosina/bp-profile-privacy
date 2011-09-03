@@ -29,6 +29,11 @@ None yet. Please visit http://www.jfarthing.com/forum for any support!
 
 
 == Changelog ==
+= 0.4 =
+* Better translation support
+
+= 0.3 =
+* Implemented the support for multisite
 
 = 0.2 =
 * Users with cap of 'edit_users' can view all fields of all users
