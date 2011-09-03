@@ -1,9 +1,10 @@
 === BP Profile Privacy ===
-Contributors: jfarthing84
+Author: jfarthing84
+Contributors: Piermaria Cosina, Riccardo Strobbia
 Donate link: http://www.jfarthing.com/donate
 Tags: buddypress, profile, privacy, permissions
 Requires at least: WordPress 2.8, BuddyPress 1.2.1
-Tested up to: WordPress 3.0-alpha / BuddyPress 1.2.1
+Tested up to: WordPress 3.2.1 / BuddyPress 1.2.9
 Stable tag: trunk
 
 Allows "permissions" to be set for xprofile fields. Permissions set by site admin include "Everyone", "Friends", "User", "Let User Decide". If "Let user Decide" is chosen, the user can choose from "Everyone", "My Friends" and "Only Me".
