@@ -34,11 +34,11 @@ load_plugin_textdomain( PPL_TD, false, dirname( plugin_basename( __FILE__ ) ).'/
 /* Only load the component if BuddyPress is loaded and initialized. */
 function bp_profile_privacy_init() {
 	// Check if xprofile is active
-	if ( !function_exists( 'xprofile_install' ) )
-		return;
-		
-	if ( !$admin_settings = get_option( 'bp_profile_privacy' ) )
-		bp_profile_privacy_install();
+//	if ( !function_exists( 'xprofile_install' ) )
+//		return;
+//		
+//	if ( !$admin_settings = get_option( 'bp_profile_privacy' ) )
+//		bp_profile_privacy_install();
 
 	require( dirname( __FILE__ ) . '/bp-profile-privacy-core.php' );
 }
